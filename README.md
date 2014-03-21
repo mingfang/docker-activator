@@ -1,4 +1,4 @@
 docker-activator
 ================
 
-Run Typesafe Activator inside Docker
+Run Typesafe Activator(https://typesafe.com/activator) inside Docker
