@@ -1,0 +1,4 @@
+#!/bin/sh
+find /root/.activator -name ".currentpid" -delete
+exec 2>&1
+exec /activator*/activator -Dhttp.address=0.0.0.0 ui -v
